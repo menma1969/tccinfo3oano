@@ -12,13 +12,43 @@
    {
       "id":"63438",
       "tittle":"Egito Antigo",
-      "description":"Situado na porção nordeste do continente africano, o Egito integrava os limites do antigo Crescente Fértil. Ironicamente, boa parte dessa localidade é tomada por deserto de clima extremamente árido",
+      "description":"Consolidação\n No início do 3º Milênio a.C., o faraó Menés consolidou a unificação política de diversas comunidades às maegens do Nilo, que deu origem ao antigo Egito;\n Foram 31 dinastias divididas em 3 grandes períodos\n Antigo Império (entre 3150 a.C. e 2400 a.C.)\n Consolidou a fusão entre os reinos do Norte e Sul. O poder se centralizou na cidade de Mênfis, situada ao norte. A partir de 2400 a.C., o poder do faraó se enfraqueceu devido à ação dos nomarcas, governantes da aldeia.\n Médio Império (entre 2040 a.C. e 1580 a.C.)\n Centralidade reforçada com o deslocamento do centro para Tebas (Primeiro Império Tebano). Também houve a expansão em direção à Núbia, sul. Acabou com a conquista do Egito pelos Hicsos, povo de origem semita, que se estabeleceu no delta do Nilo, com isso, construindo Avoris, cidade fortificada, e impondo tributações ao povo egípcio;\n Período marcado também pela chegada dos Hebreus.\n Novo Império (entre 1580 a.C. e 1085 a.C.)\n Propriedade marcada pela expulsão dos hicsos pela reunificação pelo faraó de Tebas do Egito;\n As últimas dinastias, com exceção de Ramsés II, corresponderam à denominação “Época Tardia”, encerrada com a conquista dos macedônios em 332 a.C.\n Escrita Egípcia\n Por volta de 3000 a.C., surgiu a escrita Hieroglífica;\n Com o tempo, deu origem a uma forma cursiva chamada de Hierática, usada em textos literários, jurídicos e administrativos;\n O crescente uso da escrita criou condições para a formação de uma camada burocrática especializada, os ESCRIBAS.\n Deuses\nPoliteístas;\n Osíris - Deus da eternidade;\n Isís - Esposa e irmã de Osíris;\n Set - Filho do casal, representava o Sol no caminho do zênite;\n Anúbis - irmão de Hórus, presidia ritos funerários;\n Amon  Deus de Tebas.",
       "url_img":"https://raw.githubusercontent.com/menma1969/tccinfo3oano/master/egito%20antigo.jpg",
       "link":"",
       "origin":"",
       "category":"",
       "date":"3500a.C"
    },
+   {
+      "id":"63440",
+      "tittle":"Mesopotâmia",
+      "description":"O Crescente Fértil, onde se localizava a Mesopotâmia, é uma região que foi habitada por vários povos da Antiguidade oriental. Geograficamente, o Crescente Fértil está localizado entre o Egito e a Mesopotâmia e é caracterizado como uma região desértica (quente e seca), mas com rios volumosos.",
+      "url_img":"https://github.com/menma1969/tccinfo3oano/blob/master/crescente-fertil-BD.jpg",
+      "link":"",
+      "origin":"",
+      "category":"",
+      "date":"1893"
+   }
+   {
+      "id":"63440",
+      "tittle":"Revolta da Vacina",
+      "description":"A Revolta da Vacina aconteceu no Rio de Janeiro, quando ainda era capital do Brasil, entre os dias 10 e 16 de novembro de 1904. O povo insatisfeito protestou contra a Lei da Vacinação Obrigatória e também contra os serviços públicos prestados. A anti-varíola foi a vacina responsável por essa revolta.",
+      "url_img":"https://github.com/menma1969/tccinfo3oano/blob/master/revolta_da_vacina.jpg",
+      "link":"",
+      "origin":"",
+      "category":"",
+      "date":"1893"
+   }
+   {
+      "id":"63440",
+      "tittle":"Cavalo de Troia",
+      "description":"O Cavalo de Troia foi um grande cavalo de madeira construído pelos gregos durante a Guerra de Troia, como um estratagema decisivo para a conquista da cidade fortificada de Troia, cujas ruínas estão em terras hoje turcas.",
+      "url_img":"https://github.com/menma1969/tccinfo3oano/blob/master/cavalo_de_troia_draft.jpg",
+      "link":"",
+      "origin":"",
+      "category":"",
+      "date":"1893"
+   }
    {
       "id":"63440",
       "tittle":"O Grito",
